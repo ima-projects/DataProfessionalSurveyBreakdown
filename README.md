@@ -15,7 +15,8 @@ The dynamic dashboard presented here utilizes the preprocessed Data Professional
 - [Quick Analysis of Results](#quick-analysis-of-results)
   * [Preview: Power BI Dashboard](#preview-power-bi-dashboard)
   * [Key findings](#key-findings)
-  * [Limitations and Suggestions for Optimization of the Dashboard]
+  * [Limitations and Suggestions for Optimization of the Dashboard](#limitations-and-suggestions-for-optimization-of-the-dashboard)
+
 
 
 ## Business Problem
