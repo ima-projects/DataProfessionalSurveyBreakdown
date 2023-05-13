@@ -1,4 +1,4 @@
-# DataProfessionalSurveyBreakdown
+# Data Professional Survey Breakdown
 
 The dynamic dashboard presented here utilizes the preprocessed Data Professional Survey dataset to showcase various visualizations enhanced by descriptive statistics.
 
@@ -13,12 +13,23 @@ The dynamic dashboard presented here utilizes the preprocessed Data Professional
 - [Tech Stack](#tech-stack)
 - [Preliminary Analysis](#preliminary-analysis)
 - [Types of Graphs](#types-of-graphs)
+- [Quick Analysis of Results](#quick-analysis-of-results)
+  * [Tableau Dashboard](#tableau-dashboard)
+  * [Key findings](#key-findings)
+  * [Limitations and Suggestions for Optimization of the Dashboard]
+
 
 ## Business Problem
 
+The BI/Analytics teams at my consulting firm have informed me that we acquired a new client. They require actionable insights and visualizations derived from the Data Professional Survey dataset to drive data-driven decision-making, gain a comprehensive understanding of the data professional landscape, and support strategic initiatives.
 
 ### Objective 
+
+To create a Power BI dashboard that effectively communicates key findings and trends within the Data Professional Survey dataset, enabling the BI/Analytics teams to explore, analyze, and derive valuable insights. The dashboard should facilitate data-driven decision-making, resource allocation, and workforce planning related to data professionals.
+
 ### Goal
+
+My goal is to deliver a visually appealing and interactive Power BI dashboard that provides the BI/Analytics teams with a comprehensive overview of the data professional landscape. The dashboard should highlight essential metrics such as job titles, programming languages used, salary trends, and job satisfaction. It should empower the teams to conduct in-depth analysis, identify patterns, and extract meaningful insights to support strategic decision-making, resource allocation, and talent management initiatives within the organization.
 
 ## Data Source
 - [Github data source containing Data Professional Survey dataset](https://github.com/AlexTheAnalyst/Power-BI/blob/main/Power%20BI%20-%20Final%20Project.xlsx)
