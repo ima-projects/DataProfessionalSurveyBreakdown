@@ -1,6 +1,6 @@
 # Data Professional Survey Breakdown
 
-The dynamic dashboard presented here utilizes the preprocessed Data Professional Survey dataset to showcase various visualizations enhanced by descriptive statistics.
+The dynamic Power BI dashboard presented here utilizes the preprocessed Data Professional Survey dataset to showcase various visualizations enhanced by descriptive statistics.
 
 ## Table of Contents
 - [Business Problem](#business-problem)
